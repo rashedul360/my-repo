@@ -9,3 +9,7 @@
 .div1 p {
   text-align: justify;
 }
+input {
+  padding: 10px 20px;
+  display: block;
+}
